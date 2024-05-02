@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/abirsonet" target="blank"><img src="https://img.shields.io/twitter/follow/abirsonet?logo=twitter&style=for-the-badge" alt="abirsonet" /></a> </p>
 
-- 🌱 I’m currently learning **R, C++, Swift**
+- 🌱 I’m currently learning **R, C++, JavaScript**
 
-- 💬 Ask me about **Java, HTML, CSS, PHP, Python, C#, WordPress**
+- 💬 Ask me about **Java,JavaScript, HTML, CSS, PHP, Python, C#, WordPress**
 
 - 📫 How to reach me **abirsonet563@gmail.com**
 
