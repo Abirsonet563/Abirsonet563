@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **abirsonet563@gmail.com**
 
-- ⚡ Fun fact **I think, I am Funny**
+- ⚡ Fun fact **My tongue print is unique, just like fingerprints!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
